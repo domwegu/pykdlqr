@@ -1,0 +1,13 @@
+[
+  {"code": "AD010101", "display": "Ärztliche Stellungnahme"},
+  {"code": "AD010102", "display": "Durchgangsarztbericht"},
+  {"code": "AD010103", "display": "Entlassungsbericht intern"},
+  {"code": "AD010104", "display": "Entlassungsbericht extern"},
+  {"code": "AD010105", "display": "Reha-Bericht"},
+  {"code": "AD010106", "display": "Verlegungsbericht intern"},
+  {"code": "AD010107", "display": "Vorläufiger Arztbericht"},
+  {"code": "AD010108", "display": "rztlicher Befundbericht"},
+  {"code": "AD010109", "display": "Ärztlicher Verlaufsbericht"},
+  {"code": "AD010110", "display": "Ärztlicher Verlaufsbericht"},
+  {"code": "AD010111", "display": "Ambulanzbrief"}
+  ]
